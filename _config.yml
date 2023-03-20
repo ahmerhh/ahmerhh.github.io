@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -7,6 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
+repository: ahmerhh/ahmerhh.github.io
 
 defaults:
   -
