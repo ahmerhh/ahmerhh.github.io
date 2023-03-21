@@ -9,8 +9,10 @@ plugins:
 permalink: /:year/:month/:day/:title/
 repository: ahmerhh/ahmerhh.github.io
 
-linkedin_username:    /ahmer_habib
-facebook_username:    ahmer.habib
+social media:
+
+  linkedin_username:    /ahmer_habib
+  facebook_username:    ahmer.habib
 
 defaults:
   -
