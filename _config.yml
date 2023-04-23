@@ -46,12 +46,12 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png
   
   - name: Java
-  - web_url: https://github.com/topics/java
-  - image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
 
   - name: React
-  - web_url: https://github.com/topics/react
-  - image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
 
 theme: jekyll-theme-cayman
