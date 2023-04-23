@@ -10,8 +10,8 @@ permalink: /:year/:month/:day/:title/
 repository: ahmerhh/ahmerhh.github.io
 
 social media:
-  linkedin_username:    /ahmer_habib
-  facebook_username:    ahmer.habib
+  linkedin:    /ahmer_habib
+  facebook:    ahmer.habib
   website:  https://ahmerhabib.com
   telegram: https://t.me/ahmerhabib
 
@@ -42,5 +42,11 @@ topics:
     web_url: https://github.com/topics/react
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
-
+  - name: AI
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://w7.pngwing.com/pngs/919/218/png-transparent-artificial-intelligence-ai-chip-technology-computer-artificial-intelligence-icon.png
+  
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 theme: jekyll-theme-cayman
