@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -10,9 +10,10 @@ permalink: /:year/:month/:day/:title/
 repository: ahmerhh/ahmerhh.github.io
 
 social media:
-
   linkedin_username:    /ahmer_habib
   facebook_username:    ahmer.habib
+  website:  https://ahmerhabib.com
+  telegram: https://t.me/ahmerhabib
 
 defaults:
   -
@@ -22,46 +23,35 @@ defaults:
     values:
       layout: "post"
 
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
-
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+# projects:
+#   sort_by: pushed
+#   # sort_by options:
+#   #   - pushed
+#   #   - stars
+#   limit: 9
+#   exclude:
+#     archived: false
+#     forks: true
+#     projects:
+#     # - repo-name
 
 topics:
 
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Ethereum
+    web_url: https://github.com/topics/ethereum
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png
 
-  - name: Web design
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Bitcoin
+    web_url: https://github.com/topics/bitcoin
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png
+  
+  - name: Java
+  - web_url: https://github.com/topics/java
+  - image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
+
+  - name: React
+  - web_url: https://github.com/topics/react
+  - image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
 
 theme: jekyll-theme-cayman
